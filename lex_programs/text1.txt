@@ -1,0 +1,14 @@
+//comment line 1 , single line comment//
+/* the multiline 
+comment section */ 
+
+/* the comment involving the ***********  symbols ******************
+*/
+
+
+tjhe other lines, 
+
+
+THE BIT BANGALORE INSTITUTE OF TECHNOLOGY 
+
+
